@@ -33,7 +33,11 @@
     "@babel/preset-react": "^7.14.5",
     "@babel/runtime": "^7.15.3",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
+    "css-loader": "^6.2.0",
     "html-webpack-plugin": "^5.3.2",
+    "sass": "^1.38.0",
+    "sass-loader": "^12.1.0",
+    "style-loader": "^3.2.1",
     "webpack": "^5.51.1",
     "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.0.0"
